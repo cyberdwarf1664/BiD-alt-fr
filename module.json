@@ -34,7 +34,7 @@
       }
     ],
 
-  "url": "https://gitlab.com/DarkWizarD/blades-in-the-dark-fr",
+  "url": "https://github.com/cyberdwarf1664/BiD-alt-fr",
   "manifest": "https://raw.githubusercontent.com/cyberdwarf1664/BiD-alt-fr/main/module.json",
   "download": "https://raw.githubusercontent.com/cyberdwarf1664/BiD-alt-fr/main//BiD-alt-fr.zip?job=build"
 }

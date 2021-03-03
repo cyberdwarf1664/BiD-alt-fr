@@ -1,0 +1,40 @@
+{
+  "name": "blades-in-the-dark-fr",
+  "title": "Blades in the Dark French Translation",
+  "description": "Traduction du système Blades in the Dark. L'installation du module Babele est nécessaire pour les compendiums.",
+  "version": "0.1",
+  "minimumCoreVersion" : "0.7.9",
+  "compatibleCoreVersion":"0.7.9",
+  "author": "DarkWizarD",
+
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.22"
+    },
+    {
+      "name": "blades-in-the-dark",
+      "type": "system"
+    }
+  ],
+
+  "author": "DarkWizarD",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [
+    "./style.css"
+  ],
+  "packs": [],
+    "languages": [
+      {
+        "lang": "fr",
+        "name": "Français",
+        "path": "fr.json"
+      }
+    ],
+
+  "url": "https://gitlab.com/DarkWizarD/blades-in-the-dark-fr",
+  "manifest": "https://gitlab.com/DarkWizarD/blades-in-the-dark-fr/-/raw/master/module.json",
+  "download": "https://gitlab.com/DarkWizarD/blades-in-the-dark-fr/-/jobs/artifacts/master/raw/blades-in-the-dark-fr.zip?job=build"
+}

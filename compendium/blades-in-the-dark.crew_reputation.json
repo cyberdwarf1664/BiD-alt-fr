@@ -1,0 +1,69 @@
+{
+	"label": "(Bandes) Réputations",
+	"entries": [
+		{
+			"id": "Alluring",
+			"name": "Séduisante"
+		},
+		{
+			"id": "Ambitious",
+			"name": "Ambitieux"
+		},
+		{
+			"id": "Brutal",
+			"name": "Brutaux"
+		},
+		{
+			"id": "Cruel",
+			"name": "Cruelle"
+		},
+		{
+			"id": "Daring",
+			"name": "Intrépides"
+		},
+		{
+			"id": "Ferocious",
+			"name": "Féroce"
+		},
+		{
+			"id": "Honorable",
+			"name": "Honorables"
+		},
+		{
+			"id": "Monstrous",
+			"name": "Monstrueuse"
+		},
+		{
+			"id": "Professional",
+			"name": "Professionnels"
+		},
+		{
+			"id": "Radiant",
+			"name": "Radiante"
+		},
+		{
+			"id": "Savvy",
+			"name": "Futés"
+		},
+		{
+			"id": "Serene",
+			"name": "Sereine"
+		},
+		{
+			"id": "Sinister",
+			"name": "Sinistre"
+		},
+		{
+			"id": "Strange",
+			"name": "Étranges"
+		},
+		{
+			"id": "Subtle",
+			"name": "Subtils"
+		},
+		{
+			"id": "Transcendent",
+			"name": "Transcendante"
+		}
+	]
+}

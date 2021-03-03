@@ -1,0 +1,43 @@
+{
+	"label": "Vices",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Faith",
+			"name": "Foi",
+			"description": "Vous êtes dévoué à un pouvoir supérieur, un dieu oublié, un ancêtre, etc."
+		},
+		{
+			"id": "Gambling",
+			"name": "Jeu",
+			"description": "Vous êtes accro aux jeux de hasard, aux paris en tout genre, etc."
+		},
+		{
+			"id": "Luxury",
+			"name": "Luxe",
+			"description": "Vous vous pavanez dans l’étalage ostentatoire d’opulence."
+		},
+		{
+			"id": "Obligation",
+			"name": "Devoir",
+			"description": "Vous avez une obligation vis-à-vis de votre famille, d’une cause, d’une organisation, d’une oeuvre de bienfaisance, etc."
+		},
+		{
+			"id": "Pleasure",
+			"name": "Plaisir",
+			"description": "Vous sombrez dans la jouissance des plaisirs de la chair, de la nourriture, de la boisson, des drogues, de l’art, du théâtre, etc."
+		},
+		{
+			"id": "Stupor",
+			"name": "Stupeur",
+			"description": "Vous recherchez l’oubli dans l’abus de drogues, de boissons, de combats clandestins, etc."
+		},
+		{
+			"id": "Weird",
+			"name": "Bizarre",
+			"description": "Vous expérimentez avec l’étrange, pactisez avec des esprits sauvages, suivez des rituels bizarres ou des pratiques taboues, etc."
+		}
+	]
+}

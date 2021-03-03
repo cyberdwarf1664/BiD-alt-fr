@@ -1,0 +1,302 @@
+{
+	"label": "(Bandes) Améliorations",
+	"mapping": {
+		"description": "data.description",
+		"bandes": {
+			"path": "data.class",
+			"converter": "bandes"
+		}
+	},
+	"entries": [
+		{
+			"id": "(A) Assassin Rigging",
+			"name": "(A) Harnais d’Assassin",
+			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’armes."
+		},
+		{
+			"id": "(A) Elite Skulks",
+			"name": "(A) Fureteurs d’élite",
+			"description": "Toutes vos cohortes du type Fureteur obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Fureteurs."
+		},
+		{
+			"id": "(A) Elite Thugs",
+			"name": "(A) Gros bras d’élite",
+			"description": "Toutes vos cohortes du type Gros bras obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Gros bras."
+		},
+		{
+			"id": "(A) Hardened",
+			"name": "(A) Endurcis",
+			"description": "Chaque PJ dispose d’une case supplémentaire de trauma. Pour l’obtenir, il faut y consacrer trois améliorations au lieu d’une seule. Ceci peut faire revenir dans le jeu un PJ ayant déjà subi 4 trauma si vous le souhaitez."
+		},
+		{
+			"id": "(A) Ironhook Contacts",
+			"name": "(A) Contacts dans la prison de Crochet-de-fer",
+			"description": "Votre rang est augmenté d’un point en prison."
+		},
+		{
+			"id": "(B) Bravos Rigging",
+			"name": "(B) Harnais de Bravos",
+			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’armes."
+		},
+		{
+			"id": "(B) Elite Rovers",
+			"name": "(B) Nomades d’élite",
+			"description": "Toutes vos cohortes du type Nomade obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Nomades."
+		},
+		{
+			"id": "(B) Elite Thugs",
+			"name": "(B) Gros bras d’élite",
+			"description": "Toutes vos cohortes du type Gros bras obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Gros bras."
+		},
+		{
+			"id": "(B) Hardened",
+			"name": "(B) Endurcis",
+			"description": "Chaque PJ dispose d’une case supplémentaire de trauma. Pour l’obtenir, il faut y consacrer trois améliorations au lieu d’une seule. Ceci peut faire revenir dans le jeu un PJ ayant déjà subi 4 trauma si vous le souhaitez."
+		},
+		{
+			"id": "(B) Ironhook Contacts",
+			"name": "(B) Contacts dans la prison de Crochet-de-fer",
+			"description": "Votre rang est augmenté d’un point en prison."
+		},
+		{
+			"id": "(C) Cult Rigging",
+			"name": "(C) Harnais de Cultiste",
+			"description": "Vous gagnez gratuitement 2 charges de documents ou d’instruments."
+		},
+		{
+			"id": "(C) Elite Adepts",
+			"name": "(C) Adeptes d’élite",
+			"description": "Toutes vos cohortes du type Adeptes gagnent <strong>+1 dé</strong> sur leurs jets de qualité pour toutes leurs actions d’Adeptes."
+		},
+		{
+			"id": "(C) Elite Thugs",
+			"name": "(C) Gros bras d’élite",
+			"description": "Toutes vos cohortes du type Gros bras obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Gros bras."
+		},
+		{
+			"id": "(C) Ordained",
+			"name": "(C) Ordonnés",
+			"description": "Chaque PJ gagne <strong>+1 case</strong> de trauma. Cette amélioration vous demande 3 cases pour être débloquée, et non pas simplement une seule. Ceci peut faire revenir dans le jeu un PJ ayant déjà subi 4 trauma si vous le souhaitez."
+		},
+		{
+			"id": "(C) Ritual Sanctum in Lair",
+			"name": "(C) Sanctuaire rituel dans votre repaire",
+			"description": "Cette amélioration vous accorde un <strong>atelier</strong> sacré et ésotérique, où vous pourrez vous livrer à des pratiques occultes et accomplir des rituels."
+		},
+		{
+			"id": "(H) Composed",
+			"name": "(Col) Impavides",
+			"description": "Chaque PJ gagne <strong>+1 case de stress</strong>. Cette amélioration vous demande 3 cases pour être débloquée, et non pas simplement une seule."
+		},
+		{
+			"id": "(H) Elite Rooks",
+			"name": "(Col) Magouilleurs d’élite",
+			"description": "Toutes vos cohortes du type Magouilleurs obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Magouilleurs."
+		},
+		{
+			"id": "(H) Elite Thugs",
+			"name": "(Col) Gros bras d’élite",
+			"description": "Toutes vos cohortes du type Gros bras obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Gros bras."
+		},
+		{
+			"id": "(H) Hawker Rigging",
+			"name": "(Col) Harnais de Colporteur",
+			"description": "L’un des objets que vous portez est dissimulé et n’a aucune charge."
+		},
+		{
+			"id": "(H) Ironhook Contacts",
+			"name": "(Col) Contacts dans la prison de Crochet-de-fer",
+			"description": "Votre rang est augmenté d’un point en prison."
+		},
+		{
+			"id": "(Sh) Elite Rooks",
+			"name": "(O) Magouilleurs d’élite",
+			"description": "Toutes vos cohortes du type Magouilleurs obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Magouilleurs."
+		},
+		{
+			"id": "(Sh) Elite Skulks",
+			"name": "(O) Fureteurs d’élite",
+			"description": "Toutes vos cohortes du type Fureteur obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Fureteurs."
+		},
+		{
+			"id": "(Sh) Steady",
+			"name": "(O) Stables",
+			"description": "Chaque PJ gagne <strong>+1 case de stress</strong>. Cette amélioration vous demande 3 cases pour être débloquée, et non pas simplement une seule."
+		},
+		{
+			"id": "(Sh) Thief Rigging",
+			"name": "(O) Harnais de Voleur",
+			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’outils."
+		},
+		{
+			"id": "(Sh) Underground Maps and Passkeys",
+			"name": "(O) Cartes et passe-partout des souterrains",
+			"description": "Vous pouvez facilement passer dans les canaux et les souterrains, ainsi que dans les sous-sols de la ville."
+		},
+		{
+			"id": "(Sm) Barge",
+			"name": "(Con) Barge",
+			"description": "Vous ajoutez le marqueur mobile à votre repaire. Vous pouvez désormais le déplacer vers un nouveau lieu en guise d’activité de temps mort."
+		},
+		{
+			"id": "(Sm) Camouflage",
+			"name": "(Con) Camouflage",
+			"description": "À l’arrêt vos véhicules sont parfaitement dissimulés. Ils se fondent dans le décor ou passent pour des véhicules sans intérêt (au choix)."
+		},
+		{
+			"id": "(Sm) Elite Rovers",
+			"name": "(Con) Nomades d’élite",
+			"description": "Toutes vos cohortes du type Nomade obtiennent <strong>+1 dé</strong> à vos jets de qualité relatifs aux actions de Nomades."
+		},
+		{
+			"id": "(Sm) Smuggler Rigging",
+			"name": "(Con) Harnais de Contrebandier",
+			"description": "Deux des objets que vous portez sont parfaitement dissimulés."
+		},
+		{
+			"id": "(Sm) Steady",
+			"name": "(Con) Stables",
+			"description": "Chaque PJ gagne <strong>+1 case de stress</strong>. Cette amélioration vous demande 3 cases pour être débloquée, et non pas simplement une seule."
+		},
+		{
+			"id": "(Sm) Vehicle 1",
+			"name": "(Con) Véhicule 1",
+			"description": "Tous les contrebandiers débutent avec un véhicule."
+		},
+		{
+			"id": "(Sm) Vehicle 2",
+			"name": "(Con) Véhicule 2",
+			"description": "Une seconde amélioration ajoute un blindage à votre véhicule."
+		},
+		{
+			"id": "Boat House 1",
+			"name": "Péniche aménagée 1",
+			"description": "Vous possédez une péniche, un emplacement à quai sur une voie d’eau et une petite cabane pour y stocker du matériel nautique."
+		},
+		{
+			"id": "Boat House 2",
+			"name": "Péniche aménagée 2",
+			"description": "Une seconde amélioration vous permet de rajouter un blindage et d’agrandir la soute."
+		},
+		{
+			"id": "Carriage House 1",
+			"name": "Roulotte 1",
+			"description": "Vous possédez une roulotte, deux chèvres pour la tracter et une étable."
+		},
+		{
+			"id": "Carriage House 2",
+			"name": "Roulotte 2",
+			"description": "Une seconde amélioration améliore votre roulotte en l’agrandissant et en y ajoutant des plaques de blindage, mais aussi en vous accordant des chèvres de trait plus rapides."
+		},
+		{
+			"id": "Cohort 1",
+			"name": "Cohorte 1",
+			"description": "Une cohorte est un gang ou même un seul PNJ expert qui travaille pour votre bande."
+		},
+		{
+			"id": "Cohort 2",
+			"name": "Cohorte 2",
+			"description": "Une cohorte est un gang ou même un seul PNJ expert qui travaille pour votre bande."
+		},
+		{
+			"id": "Cohort 3",
+			"name": "Cohorte 3",
+			"description": "Une cohorte est un gang ou même un seul PNJ expert qui travaille pour votre bande."
+		},
+		{
+			"id": "Cohort 4",
+			"name": "Cohorte 4",
+			"description": "Une cohorte est un gang ou même un seul PNJ expert qui travaille pour votre bande."
+		},
+		{
+			"id": "Hidden Lair",
+			"name": "Repaire caché",
+			"description": "Votre repaire est situé dans un lieu secret, maquillé afin de passer pour un endroit ordinaire. Si votre repaire vient à être découvert, vous pouvez utiliser deux activités de temps mort et vous acquitter d’une somme égale à votre <strong>Rang</strong> pour le déménager et le cacher de nouveau."
+		},
+		{
+			"id": "Mastery",
+			"name": "Maîtrise",
+			"description": "Votre bande a accès à un entraînement de niveau maître. Vous pouvez améliorer le score d’action de vos PJ jusqu’à 4 (jusqu’à ce que vous débloquiez cette amélioration, le score d’action de vos PJ est limité à 3). Débloquer cette amélioration vous demandera d’y consacrer quatre cases."
+		},
+		{
+			"id": "Quality: Arcane Implements",
+			"name": "Qualité : ingrédients ésotériques",
+			"description": "Augmente le <strong>score de qualité</strong> de tous les  <strong>ingrédients ésotériques</strong> des PJ, au-delà de la qualité <strong>indiquée</strong> par le Rang de l’équipe et de leur marqueur de qualité."
+		},
+		{
+			"id": "Quality: Documents",
+			"name": "Qualité : documents",
+			"description": "Augmente le <strong>score de qualité</strong> de tous les  <strong>documents</strong> des PJ, au-delà de la qualité <strong>indiquée</strong> par le Rang de l’équipe et de leur marqueur de qualité."
+		},
+		{
+			"id": "Quality: Gear",
+			"name": "Qualité : équipements",
+			"description": "Augmente le <strong>score de qualité</strong> de tous les  <strong>équipements</strong> des PJ, au-delà de la qualité <strong>indiquée</strong> par le Rang de l’équipe et de leur marqueur de qualité."
+		},
+		{
+			"id": "Quality: Subterfuge Supplies",
+			"name": "Qualité : fournitures de subterfuge",
+			"description": "Augmente le <strong>score de qualité</strong> de tous les <strong>fournitures</strong> de subterfuge</strong> des PJ, au-delà de la qualité <strong>indiquée</strong> par le Rang de l’équipe et de leur marqueur de qualité."
+		},
+		{
+			"id": "Quality: Tools",
+			"name": "Qualité : outils",
+			"description": "Augmente le <strong>score de qualité</strong> de tous les  <strong>outils</strong> des PJ, au-delà de la qualité <strong>indiquée</strong> par le Rang de l’équipe et de leur marqueur de qualité."
+		},
+		{
+			"id": "Quality: Weapons",
+			"name": "Qualité : armes",
+			"description": "Augmente le <strong>score de qualité</strong> de tous les  <strong>armes</strong> des PJ, au-delà de la qualité <strong>indiquée</strong> par le Rang de l’équipe et de leur marqueur de qualité."
+		},
+		{
+			"id": "Quarters",
+			"name": "Quartiers",
+			"description": "Votre repaire comprend des quartiers d’habitation pour votre bande. Sans cette amélioration, chaque PJ doit aller se reposer ailleurs, ce qui l’expose aux attaques ennemies à ce moment-là."
+		},
+		{
+			"id": "Secure Lair 1",
+			"name": "Repaire sécurisé 1",
+			"description": "Votre repaire est équipé de verrous, d’alarmes et de pièges qui découragent et déjouent les intrusions."
+		},
+		{
+			"id": "Secure Lair 2",
+			"name": "Repaire sécurisé 2",
+			"description": "Une seconde amélioration augmente encore ses défenses pour leur adjoindre des mesures de sécurité ésotériques, efficaces contre les esprits."
+		},
+		{
+			"id": "Training: Insight",
+			"name": "Entraînement : perspicacité",
+			"description": "Vous gagnez 2 px (au lieu d’un seul) lorsque vous entraînez une jauge d’expérience de <strong>Perspicacité</strong> pendant votre temps mort. Cette amélioration vous aide en substance à progresser plus rapidement."
+		},
+		{
+			"id": "Training: Personal Exp",
+			"name": "Entraînement : expérience de livret de personnage",
+			"description": "Vous gagnez 2 px (au lieu d’un seul) lorsque vous entraînez une jauge d’<strong>expérience de livret de personnage</strong> pendant votre temps mort. Cette amélioration vous aide en substance à progresser plus rapidement."
+		},
+		{
+			"id": "Training: Prowess",
+			"name": "Entraînement : prouesse",
+			"description": "Vous gagnez 2 px (au lieu d’un seul) lorsque vous entraînez une jauge d’expérience de <strong>prouesse</strong> pendant votre temps mort. Cette amélioration vous aide en substance à progresser plus rapidement."
+		},
+		{
+			"id": "Training: Resolve",
+			"name": "Entraînement : détermination",
+			"description": "Vous gagnez 2 px (au lieu d’un seul) lorsque vous entraînez une jauge d’expérience de <strong>détermination</strong> pendant votre temps mort. Cette amélioration vous aide en substance à progresser plus rapidement."
+		},
+		{
+			"id": "Vault 1",
+			"name": "Chambre-forte 1",
+			"description": "Votre repaire possède une chambre-forte, ce qui augmente votre capacité de stockage jusqu’à <strong>8 argent</strong>."
+		},
+		{
+			"id": "Vault 2",
+			"name": "Chambre-forte 2",
+			"description": "Une seconde amélioration fait passer votre capacité à 16. Une section de votre chambre-forte peut être utilisée comme une cellule de confinement."
+		},
+		{
+			"id": "Workshop",
+			"name": "Atelier",
+			"description": "Votre repaire possède un atelier équipé d’outils de bricolage et d’alchimie, ainsi que d’une petite bibliothèque de livres, documents et cartes. Grâce à ce matériel, vous pouvez accomplir des projets à long terme sans avoir à quitter votre repaire."
+		}
+	]
+}
